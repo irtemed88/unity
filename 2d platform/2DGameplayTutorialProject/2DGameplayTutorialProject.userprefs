@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/demetri/Sandbox/Unity/2d platform/2DGameplayTutorialProject/Assets/Scripts/2D/Moving Platform/MovingPlatformEffects.js" line="15" />
+      <Breakpoint file="/Users/demetri/Sandbox/Unity/2d platform/2DGameplayTutorialProject/Assets/Scripts/2D/Moving Platform/MovingPlatformEffects.js" line="20" />
+      <Breakpoint file="/Users/demetri/Sandbox/Unity/2d platform/2DGameplayTutorialProject/Assets/Scripts/2D/Moving Platform/MovingPlatformEffects.js" line="40" />
+      <Breakpoint file="/Users/demetri/Sandbox/Unity/2d platform/2DGameplayTutorialProject/Assets/Scripts/Effects/SpecialEffectHandler.js" line="23" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
